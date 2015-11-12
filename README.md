@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/goodjob1114/vmp3.svg)](https://travis-ci.org/goodjob1114/vmp3)
+
 **ex. install `ffmpeg` first, then create a main.go**
 ```go
 package main
