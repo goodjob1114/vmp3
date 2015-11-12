@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 
-	"./vmp3"
+	"github.com/goodjob1114/vmp3"
 )
 
 func main() {
